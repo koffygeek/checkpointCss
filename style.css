@@ -10,9 +10,7 @@ body {
         justify-content: center;
         height: 100vh;
         border: 1px solid white;
-}
-
-    
+}    
 
     h1 {
         color: white;
@@ -29,6 +27,9 @@ body {
 button {
     background-color: navy;
     color: white;
+    border-radius: ;
+    margin-right: 1%;
+    border-radius: 10px;
 }
 
 button:hover{
@@ -39,11 +40,13 @@ input {
     background-color: rgb(1, 1, 57);
     color: white;
     width: 200px;
+    outline: none;
+    border: none;    
     }
 
-input:active {
-outline: none;
-}
+
+
+
 
 
 
